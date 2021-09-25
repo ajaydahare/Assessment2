@@ -1,0 +1,12 @@
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:2rem ;
+
+} 
+
+.app_container{
+    width: 100%;
+    max-width:400px; 
+}
